@@ -4,5 +4,3 @@ FROM biocontainers/samtools:v1.3_cv2
 CMD []
 
 COPY extractBamID.sh /
-
-RUN chmod u+x /extractBamID.sh
