@@ -1,0 +1,1 @@
+This method is used to extract and echo out the sample ID associated with a given BAM file.
