@@ -5,4 +5,4 @@ CMD []
 
 COPY extractBamID.sh /
 
-RUN chmod +x extractBamID.sh
+RUN chmod +x /extractBamID.sh
